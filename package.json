@@ -1,0 +1,21 @@
+{
+  "name": "video-v0",
+  "version": "1.0.0",
+  "description": "this is me trying out webrtc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Error no test specified && exit 1"
+  },
+  "author": "mushtaq",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/express": "^4.17.6",
+    "@types/socket.io": "^2.1.8",
+    "nodemon": "^2.0.4",
+    "ts-node": "^8.10.1",
+    "typescript": "^3.9.3"
+  },
+  "dependencies": {
+    "@types/socket.io": "^2.1.8"
+  }
+}
